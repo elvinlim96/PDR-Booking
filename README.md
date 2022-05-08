@@ -59,7 +59,7 @@ no_of_users = "VALUE"   # In numeric
 
 ## Executing program
 
-1. Run the following command to start the automated PDR booking:
+1. Run the following command to start the PDR booking:
 ```
 python PDRbooking.py
 ```
